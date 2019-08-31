@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(GetZeros(30))
+	fmt.Println(GetZeros(50))
 }
